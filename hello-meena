@@ -3,6 +3,9 @@ class HelloMeena {
     // Prints "Hello, Meena" to the terminal window.
     public static void main(String args[])
     {
+        System.out.println("Hello, Mahesh");
         System.out.println("Hello, Meena");
+        System.out.println("Hello, Rhea");
+        System.out.println("This is my first CI/CD program using Git, Jenkins ");
     }
 }
